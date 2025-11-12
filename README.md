@@ -37,7 +37,7 @@ I’m a Texas A&M student who enjoys building small web apps, backend services, 
 
 - I'm aiming to become a quantitative researcher/quant — I focus on quantitative experiments, backtesting, data pipelines, and model prototyping.
 - Primary project: [Quant-JuliaCode-MachineLearning](https://github.com/landrytaylor1717/Quant-JuliaCode-MachineLearning) — experiments in Julia and Python for quantitative analysis and ML. This is my main area of work and where I showcase research and prototypes.
-- Neural network experiments: [BSMNeuralNetwork](https://github.com/joeyjpaul23/BSMNeuralNetwork) — nueral network experiments to price American Options using the Black-Scholes-Merton model and ETCNN neural network (collaboration with @joeypaul23)
+- Neural network experiments: [BSMNeuralNetwork](https://github.com/joeyjpaul23/BSMNeuralNetwork) — neural network experiments to price American Options using the Black-Scholes-Merton model and ETCNN neural network (collaboration with @joeypaul23)
 
 ## ⭐️ Featured projects
  - [Quant-JuliaCode-MachineLearning](https://github.com/landrytaylor1717/Quant-JuliaCode-MachineLearning) — quantitative/ML experiments (Julia / mixed languages)
